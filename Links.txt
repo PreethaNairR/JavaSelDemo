@@ -1,0 +1,13 @@
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+ http://www.eclipse.org/
+
+https://www.eclipse.org/subversive/previous-releases.php
+
+https://www.eclipse.org/downloads/packages/release
+
+Steps for Eclipse installation:
+
+1. https://www.eclipse.org/downloads/packages/release/oxygen/3a
+
+2. https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<suite name="Suite">
+<test name="Test">
+<classes>
+
+<class name="Class1.DemoClass"></class>
+
+</classes>
+
+
+</test>
+
+</suite>
